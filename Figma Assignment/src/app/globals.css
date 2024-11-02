@@ -1,0 +1,300 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  width: 100%;
+  height: 102px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.images {
+  width: 20%;
+  height: 41.55;
+  left: 16%;
+  position: absolute;
+}
+
+.image1 {
+  width: 68.55px;
+  height: 41.53px;
+}
+
+.image2 {
+  width: 68.55px;
+  height: 41.53px;
+}
+
+ul {
+  display: flex;
+  gap: 40px;
+  position: absolute;
+  right: 32%;
+  left: 39%;
+}
+
+.route1 {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 10px;
+  width: 68px;
+}
+
+.route2 {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.route3 {
+  display: flex;
+  align-items: center;
+}
+
+.route4 {
+  display: flex;
+  align-items: center;
+}
+
+.route5 {
+  display: flex;
+  align-items: center;
+}
+
+.image9 {
+  height: 829px;
+  width: 770px;
+  position: absolute;
+  top: 12%;
+  right: 20%;
+  flex-wrap: wrap;
+}
+
+.image10 {
+  height: 64px;
+  width: 277.76px;
+  position: absolute;
+  left: 17%;
+  top: 50%;
+  padding-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.image11 {
+  height: 64px;
+  width: 331px;
+  position: absolute;
+  left: 17%;
+  top: 55%;
+  padding-top: 20px;
+}
+
+.image12 {
+  flex-wrap: wrap;
+  width: 1198px;
+  height: 435px;
+  position: absolute;
+  bottom: 0%;
+  top: 110%;
+  left: 16.33%;
+  right: 25%;
+}
+
+.image13 {
+  width: 1198px;
+  height: 268px;
+  position: absolute;
+  left: 16.33%;
+  top: 170%;
+} 
+
+.image14 {
+  display: flex;
+  width: 1198px;
+  height: 765px;
+  position: absolute; 
+  bottom: 0%;
+  top: 210%;
+  left: 17%; 
+}
+
+.image15 {
+  width: 1198px;
+  height: 603px;
+  position: absolute; 
+  bottom: 0%;
+  padding-top: 20px;
+  top: 300%;
+  left: 17%; 
+}
+
+.image16 {
+  width: 100%;
+  height: 417px;
+  position: absolute;
+  bottom: 0%;
+  top: 370%;
+  padding-top: auto;
+}
+
+.image17 {
+  left: 16.30%;
+  top: 18%;
+  width: 277.76px;
+  height: 128px;
+  position: absolute;
+}
+
+.image-first-row {
+  display: flex;
+  margin-top: 10px;
+  gap: 30px;
+  position: absolute;
+  top: 39%;
+  left: 16.30%;
+}
+
+.image18 {
+  width: 210px;
+  height: 260px;
+}
+
+.image19 {
+  width: 210px;
+  height: 260px;
+}
+
+.image20 {
+  width: 210px;
+  height: 260px;
+}
+
+.image21 {
+  width: 210px;
+  height: 260px;
+}
+
+.image22 {
+  width: 210px;
+  height: 260px;
+}
+
+.image-second-row {
+  display: flex;
+  margin-top: 10px;
+  gap: 30px;
+  position: absolute;
+  top: 69%;
+  left: 16.30%;
+}
+
+.image13 {
+  width: 210px;
+  height: 260px;
+}
+
+.image24 {
+  width: 210px;
+  height: 260px;
+}
+
+.image25 {
+  width: 210px;
+  height: 260px;
+}
+
+.image26 {
+  width: 210px;
+  height: 260px;
+}
+
+.image27 {
+  width: 210px;
+  height: 260px;
+}
+
+.image28 {
+  width: 277.74px;
+  height: 128px;
+  position: absolute;
+  left: 16.30%;
+  top: 19%;
+}
+
+.image29 {
+  position: absolute;
+  left: 16.30%;
+  top: 39%;
+  width: 1170px;
+  height: 435px;
+}
+
+.image30 {
+  position: absolute;
+  left: 16.30%;
+  top: 89%;
+  width: 1170px;
+  height: 435px;
+}
+
+.image31 {
+  position: absolute;
+  left: 16.30%;
+  top: 139%;
+  width: 1170px;
+  height: 435px;
+}
+
+.image32 {
+  position: absolute;
+  top: 17%;
+  left: 16.30%;
+  width: 391px;
+  height: 128px;
+}
+
+.image33 {
+  position: absolute;
+  left: 16.33%;
+  top: 46%; 
+}
+
+.image34 {
+  position: absolute;
+  left: 16.33%;
+  top: 35%;
+}
+
+.image35 {
+  position: absolute;
+  left: 16.33%;
+  top: 64%;
+}
+
+.image36 {
+  position: absolute;
+  left: 16.5%;
+  top: 17%;
+}
+
+.image37 {
+  position: absolute;
+  left: 44%;
+}
+
+.image38 {
+  position: absolute;
+  left: 16.33%;
+  top: 58%; 
+}
+
+
+
+
